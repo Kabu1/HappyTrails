@@ -1,0 +1,22 @@
+body{
+    background: khaki;
+}
+
+.popular h2{
+    color:#f7325e;
+}
+.popular p{
+    color:#7dc410;
+}
+
+.tropical h2{
+    color: rgb(6, 32, 32);
+}
+.tropical p{
+    color: teal;
+}
+img {
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: purple 0 0 15px;
+}
