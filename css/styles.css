@@ -1,5 +1,7 @@
 body{
     background: khaki;
+    padding: 0px;
+    margin: 0px;
 }
 
 .popular h2{
@@ -19,4 +21,29 @@ img {
     border-radius: 15px;
     border: 2px solid black;
     box-shadow: purple 0 0 15px;
+}
+
+/*navbar styling*/
+nav{
+    background-color: black;
+    color: white;
+    display:flex;
+    justify-content: space-between;
+    padding: 15px;
+    position: sticky; 
+    z-index:10px;
+    height: 40px;
+}
+nav ul{
+    display: inline-flex;
+    list-style: none;
+    text-align: left;
+}
+nav li a{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+header{
+    text-align: ;
 }
