@@ -44,6 +44,16 @@ nav li a{
     padding: 20px;
     text-decoration: none;
 }
-header{
-    text-align: ;
+.gallerly img{
+    border-radius: 15px;
+    border: 2px solid olive;
+    box-shadow: white 0 0 15px;
+}
+.contact{
+    background: black;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    padding: 20px
+
 }
